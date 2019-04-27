@@ -1,49 +1,24 @@
 ﻿$(document).ready(function(){
 
   var playlist = [
-   {
+	{
+      title:"只想做你的超级英雄，伴你一辈子",
+      artist:"liyong",
+      mp3:"http://tool.qc5u.net/music/qq/004JaCzc1KhTrU.mp3",
+       poster: "img/kelianbukeshuo.jpg"
+    },
+    {
+      title:"可恋不可说",
+      artist:"liyong",
+      mp3:"http://tool.qc5u.net/music/qq/001fk9Xm2SUhla.mp3",
+      poster: "img/meinv_01.jpg"
+    },
+    {
       title:"夜空中最亮的星",
-      artist:"作者",
+      artist:"liyong",
       mp3:"http://tool.qc5u.net/music/qq/001NmPTG1fVsUw.mp3",
       poster: "img/yekongzhong.jpg"
-	  
-      
     },
-	
-   {
-      title:"我在呢",
-      artist:"",
-      mp3:"http://mz.mxlogo.com/mp3-2-wozaine.mp3",
-      poster: "img/img-2-wozaine.jpg"
-    },
-	{
-      title:"岚",
-      artist:"",
-      mp3:"http://mz.mxlogo.com/mp3-3-lan.mp3",
-       poster: "img/img-3-lan.jpg"
-    },
-	
-    {
-      title:"电子音",
-      artist:"",
-      mp3:"http://mz.mxlogo.com/mp3-4-dz1.mp3",
-      poster: "img/img-4-dz.jpg"
-    },
-	
-	{
-      title:"电子音",
-      artist:"",
-      mp3:"http://mz.mxlogo.com/mp3-4-dz2.mp3",
-       poster: "img/img-4-dz.jpg"
-    },
-
-
-	{
-      title:"电子音",
-      artist:"",
-      mp3:"http://mz.mxlogo.com/mp3-4-dz3.mp3",
-      poster: "img/img-4-dz.jpg"
-    }
 	];
 	
 /*	{
