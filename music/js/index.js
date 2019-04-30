@@ -17,7 +17,7 @@
       title:"已寻找到夜空中最亮的星",
       artist:"糖糖",
       mp3:"http://tool.qc5u.net/music/qq/001NmPTG1fVsUw.mp3",
-      poster: "img/yekongzhong.jpg"
+      poster: "http://pqpwa2jrr.bkt.clouddn.com/yekong.jpg"
     },
 	];
 	
