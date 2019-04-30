@@ -5,13 +5,13 @@
       title:"只想做你的超级英雄，伴你一辈子",
       artist:"liyong",
       mp3:"http://tool.qc5u.net/music/qq/004JaCzc1KhTrU.mp3",
-       poster: "img/kelianbukeshuo.jpg"
+      poster: "http://pqpwa2jrr.bkt.clouddn.com/kelianbukeshuo.jpg"
     },
     {
       title:"可恋不可说",
       artist:"liyong",
       mp3:"http://tool.qc5u.net/music/qq/001fk9Xm2SUhla.mp3",
-      poster: "img/meinv_01.jpg"
+      poster: "http://pqpwa2jrr.bkt.clouddn.com/meinv_01.jpg"
     },
     {
       title:"夜空中最亮的星",
