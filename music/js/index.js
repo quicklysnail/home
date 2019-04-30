@@ -3,19 +3,19 @@
   var playlist = [
 	{
       title:"只想做你的超级英雄，伴你一辈子",
-      artist:"liyong",
+      artist:"糖糖",
       mp3:"http://tool.qc5u.net/music/qq/004JaCzc1KhTrU.mp3",
       poster: "http://pqpwa2jrr.bkt.clouddn.com/kelianbukeshuo.jpg"
     },
     {
       title:"可恋不可说",
-      artist:"liyong",
+      artist:"糖糖",
       mp3:"http://tool.qc5u.net/music/qq/001fk9Xm2SUhla.mp3",
       poster: "http://pqpwa2jrr.bkt.clouddn.com/meinv_01.jpg"
     },
     {
-      title:"夜空中最亮的星",
-      artist:"liyong",
+      title:"已寻找到夜空中最亮的星",
+      artist:"糖糖",
       mp3:"http://tool.qc5u.net/music/qq/001NmPTG1fVsUw.mp3",
       poster: "img/yekongzhong.jpg"
     },
